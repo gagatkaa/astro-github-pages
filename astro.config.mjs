@@ -1,7 +1,6 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config'
 
-// https://astro.build/config
 export default defineConfig({
     site: 'https://gagatkaa.github.io',
-    base: '/cck/',
-});
+    base: '/astro-github-pages',
+})
